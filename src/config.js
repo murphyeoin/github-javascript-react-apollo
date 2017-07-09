@@ -1,5 +1,5 @@
 
-export const GITHUB_OAUTH_TOKEN = "5d7612d60d4b726ae3626da46a6832b9003bc8c8"; //youll need to get one of these from github
+export const GITHUB_OAUTH_TOKEN = "GITHUB_OAUTH_TOKEN"; //youll need to get one of these from github to use the API https://help.github.com/articles/authorizing-oauth-apps/
 
-export const ownerName = "AnimalLogic"; //github owner
-export const repositoryName = "AL_USDMaya";
+export const ownerName = "OWNER"; //github owner
+export const repositoryName = "REPOSITORY";
